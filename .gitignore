@@ -1,0 +1,16 @@
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_deps
+.ninja_log
+.qt/
+.qtcreator/
+kursova_autogen/
+Testing/
+*.user
+*.autosave
+.DS_Store
+__MACOSX/
